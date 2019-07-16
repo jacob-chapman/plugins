@@ -10,9 +10,7 @@
     version - version of this plugin. Required. Must match <version> in plugin.xml
   -->
   <plugin id="foxsports.ui-template" url="https://github.com/jacob-chapman/plugins/blob/master/ui-template-1.0.zip?raw=true" version="1.0.0">
-    <!--
-      The <idea-version> element must match the same element in plugin.xml. Required.
-    -->
+    <name>UI Template</name>
     <idea-version since-build="181.3" until-build="191.*" />
   </plugin>
 </plugins>
