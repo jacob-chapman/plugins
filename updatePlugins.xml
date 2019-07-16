@@ -9,7 +9,7 @@
     url - path to download the plugin JAR/ZIP file. Required. Must be HTTPS
     version - version of this plugin. Required. Must match <version> in plugin.xml
   -->
-  <plugin id="foxsports.ui-template" url="https://www.mycompany.com/my_repository/mypluginname.jar" version="1.0.0">
+  <plugin id="foxsports.ui-template" url="https://github.com/jacob-chapman/plugins/blob/master/ui-template-1.0.zip?raw=true" version="1.0.0">
     <!--
       The <idea-version> element must match the same element in plugin.xml. Required.
     -->
